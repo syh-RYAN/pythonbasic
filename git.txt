@@ -12,7 +12,7 @@ git commit -m "메시지" 버전을 생성
 
 git push origin 버전을 Github에 업로드
 
-git commit --amend 최근 메시지 바꾸기
+git commit --amend 최근 메시지 바꾸기ㄴ
 
 
 파이썬 특징
